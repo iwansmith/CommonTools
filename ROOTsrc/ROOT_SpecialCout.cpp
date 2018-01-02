@@ -53,8 +53,3 @@ std::ostream& operator<< (std::ostream& lhs, TH1* rhs)
 }
 
 
-int Test()
-{
-
-  return 5;
-}
